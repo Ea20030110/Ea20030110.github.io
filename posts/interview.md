@@ -1,3 +1,8 @@
+title	八股
+category	随笔
+date	2026.08.13
+readTime	20 MIN
+
 # 八股
 
 ---
