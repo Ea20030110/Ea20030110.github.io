@@ -5,9 +5,6 @@ date	2026.08.13
 readTime	20 MIN
 ---
 
-# 八股
-
----
 
 ## 1. 自注意力机制（Self-Attention）是如何工作的？
 
