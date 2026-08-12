@@ -1,0 +1,12 @@
+.article-body h3 { margin: 34px 0 16px; font: 22px/1.45 var(--serif); }
+.article-body h4 { margin: 30px 0 14px; font: 18px/1.5 var(--serif); }
+.article-body ul, .article-body ol { margin: 0 0 28px; padding-left: 1.6em; font: 17px/1.9 var(--serif); }
+.article-body li { margin: 7px 0; padding-left: .25em; }
+.article-body a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.article-body :not(pre) > code { padding: 2px 6px; border-radius: 4px; background: var(--soft); font: 14px ui-monospace, SFMono-Regular, Menlo, monospace; }
+.article-body pre { margin: 30px 0; padding: 22px 24px; overflow-x: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--soft); font: 14px/1.75 ui-monospace, SFMono-Regular, Menlo, monospace; }
+.article-body hr { margin: 42px 0; border: 0; border-top: 1px solid var(--line); }
+.article-body figure { margin: 36px 0; }
+.article-body figure img { display: block; max-width: 100%; height: auto; margin-inline: auto; border-radius: 8px; }
+.article-body figcaption { margin-top: 10px; color: var(--faint); font-size: 12px; text-align: center; }
+.post-load-error { padding: 28px 0; color: var(--accent); }
